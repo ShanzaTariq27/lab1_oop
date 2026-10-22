@@ -45,4 +45,4 @@ def load_course(name, filename):
 if __name__ == "__main__":
     test = Course("Test")
     test.add_student("A", 50)
-    print(test)
+    print(test) 
