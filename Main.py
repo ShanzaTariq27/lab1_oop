@@ -49,4 +49,4 @@ class Student:
 students = [Student("Ali", 72), Student("Sara", 45), Student("Omar", 50)]
 
 for s in students:
-    print(s)
+    print(s) 
